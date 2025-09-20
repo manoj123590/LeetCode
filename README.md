@@ -43,9 +43,14 @@ If you find this useful, consider giving a star ⭐ to the repository!
 ## Array
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/manoj123590/LeetCode/tree/master/0001-two-sum) |
 | [0035-search-insert-position](https://github.com/manoj123590/LeetCode/tree/master/0035-search-insert-position) |
 ## Binary Search
 |  |
 | ------- |
 | [0035-search-insert-position](https://github.com/manoj123590/LeetCode/tree/master/0035-search-insert-position) |
+## Hash Table
+|  |
+| ------- |
+| [0001-two-sum](https://github.com/manoj123590/LeetCode/tree/master/0001-two-sum) |
 <!---LeetCode Topics End-->
