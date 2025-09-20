@@ -37,3 +37,15 @@ If you find this useful, consider giving a star ⭐ to the repository!
 
 👉 Do you want me to make this README **minimal and simple**  for LinkedIn/GitHub profile showcase?
 
+
+<!---LeetCode Topics Start-->
+# LeetCode Topics
+## Array
+|  |
+| ------- |
+| [0035-search-insert-position](https://github.com/manoj123590/LeetCode/tree/master/0035-search-insert-position) |
+## Binary Search
+|  |
+| ------- |
+| [0035-search-insert-position](https://github.com/manoj123590/LeetCode/tree/master/0035-search-insert-position) |
+<!---LeetCode Topics End-->
